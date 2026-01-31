@@ -3,112 +3,75 @@ linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
 comments: true
-next: /en/2026-01/2026-01-30
+next: /en/2026-01/2026-01-31
 description: Your daily source for curated AI news, practical tools, and actionable
   tutorials to master Artificial Intelligence;
 cascade:
   type: docs
 ---
-## AI Daily Brief 2026/1/31
+## AI Daily News: February 1, 2026
 
-> `AI News` | `Daily Read` | `Aggregated Web Data` | `Cutting-Edge Science` | `Industry Voices` | `Open Source Power` | `AI & Our Future` | [Visit Web Version](https://ai.hubtoday.app/) | [Join Our Community](https://source.hubtoday.app/logo/wechat-qun.jpg)
+> `AI News` | `Daily Brief` | `Web Data Aggregation` | `Cutting-Edge Science` | `Industry Voice` | `Open Source Power` | `AI & Human Future` | [Visit Web Version↗️](https://ai.hubtoday.app/) | [Join Group Chat🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
 
-### Today's Highlights
+### Today's Rundown
 
 ```
-Google Genie 3 open for testing, supports text-to-image virtual world generation, limited to US Ultra users.
-Baidu PaddleOCR-VL tops the charts, pioneering irregular bounding box localization, surpassing GPT-5.2.
-ByteDance, Alibaba, DeepSeek intensively release models during Chinese New Year, vying for 1.4 billion user entries.
-SenseTime open-sources MARS, surpasses Gemini, first dynamic visual reasoning VLM.
-Amazon plans to invest 50 billion in OpenAI, setting a new AI investment record, potentially changing the cloud computing landscape.
+Vidu Q3 Launches Globally: 16-Second Audio-Visual Generation, Second Worldwide 🚀
+Claude Drives Mars Rover: Completes 400m AI Autonomous Driving 🤯
+ChatGPT Agent User Base Plummets by 75% in Six Months 📉
+Nvidia OpenAI Trillion-Dollar Deal Stalls, Pivots to Anthropic 🤝
+Moltbook's 150K AI Autonomous Experiment Creates New Languages and Religions 🤯
 ```
 
 ### Product & Feature Updates
 
-1.  **Google Genie 3 Open for Testing.**
-    Google DeepMind has unveiled its experimental prototype, [Project Genie (AI News)](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/), now open for testing! This awesome new tool lets users create virtual worlds from just text and images – how cool is that? ✨ Users can fly, drive, or walk with custom perspectives and even download exploration videos. Currently, it's exclusive to US Ultra users aged 18 and above.
+1.  **Vidu Q3 launches globally today!** This domestic video generator is hitting hard again, delivering **16-second audio-visual output** in a single shot — a world-exclusive feature! 🤯 It not only supports camera control and switching but also renders text in Chinese, English, and Japanese, kicking off a whole new era of "audiovisual generation." According to the [Artificial Analysis Rankings (AI News)](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652669450&idx=1&sn=d1b1f0424bd9e3236b3759c78d8872fb), Vidu Q3 ranks **number one in China** and second worldwide. 🔥
 
-2.  **Google Maps Integrates Gemini Voice Navigation.**
-    Google Maps is now [fully integrated with Gemini (AI News)](https://www.aibase.com/zh/news/25094) for walking and cycling navigation! Users can now vocally ask for real-time traffic updates 🗣️, letting cyclists get info without looking at their screen. It can even voice-send "running late" texts. This feature is rolling out globally on iOS and Android, pushing forward Google's unified AI assistant strategy.
-    <br/>![AI News: Google Maps Gemini Voice Navigation Interface](https://source.hubtoday.app/images/2026/01/news_01kg7rckfjf0q9hj7a05yf3rnr.avif)<br/>
+2.  **Xiaohongshu is internally testing its new 'Voice Ask-a-Question' feature.** Now, users can speak their questions into the search bar, and AI will crunch the platform's content to provide a concise summary. 💬 Officials confirm the feature is in beta, essentially positioning AI as a bridge between user queries and [real-life experience (AI News)](https://www.aibase.com/zh/news/25131).
 
-3.  **Tencent Yuanbao Pie Internal Test Exposed.**
-    Tencent's new social app, Yuanbao Pie, has been revealed in internal testing! It integrates social features with the [QQ Music and Tencent Video (AI News)](https://www.aibase.com/zh/news/25118) resource libraries. For the first time ever, WeChat and QQ friends can be pulled into the same group – how neat is that? 😉 The AI can even generate memes and proactively start conversations. Pony Ma plans to invest 1 billion RMB in red packets for its promotion. It's currently still in the internal testing phase.
-    <br/>![AI News: Tencent Yuanbao Pie Social Feature Internal Test Interface](https://source.hubtoday.app/images/2026/01/news_01kg7rcnktfa78a7c27ka3g5kp.avif)<br/>
-
-4.  **Baidu PaddleOCR-VL-1.5 Open Source.**
-    Baidu's PaddleOCR-VL-1.5, a 0.9B parameter model, has [topped the OmniDocBench (AI News)](https://www.qbitai.com/2026/01/374455.html) leaderboard! This marks the world's first achievement in irregular bounding box localization, meaning it can stably parse even skewed documents – pretty impressive, huh? It has surpassed DeepSeek-OCR2 and GPT-5.2 and supports multiple languages, including Tibetan and Bengali.
-
-5.  **Older ChatGPT Models Going Offline Soon.**
-    Older ChatGPT models are heading for retirement! On February 13th, [GPT-4o, 4.1, and o4-mini (AI News)](https://x.com/op7418/status/2017121335898697999) will be decommissioned. Don't sweat it too much, though; API ports will still be available for use. Users should prepare for migration in advance as OpenAI accelerates its model iteration, with new-generation models ready to take over.
-    <br/>![AI News: ChatGPT Model Sunset Announcement Screenshot](https://source.hubtoday.app/images/2026/01/news_01kg7rcrzgftz965vmp5spxsjs.avif)<br/>
+3.  **ChatGPT Agent's user base has plummeted by 75%.** In just six months since its launch, weekly active users have tanked from 4 million to under 1 million. 📉 Users openly admit they don't get what it's for, complaining it's slow, unstable, and even has a [misleading name (AI News)](https://www.aibase.com/zh/news/25126). OpenAI is now pivoting to develop more specialized agents, like a "shopping research" feature. 🛒
 
 ### Cutting-Edge Research
 
-1.  **LLM-in-Sandbox Paradigm Released.**
-    A new LLM-in-Sandbox paradigm has been released by [a joint study from Renmin University, Microsoft, and Tsinghua University (AI News)](https://arxiv.org/abs/2601.16206)! This cool new approach lets models explore freely within a sandbox, leading to significant improvements across math, physics, and chemistry. It also slashes long-text token consumption by 8x and works without any extra training. A Python package has already been open-sourced, supporting mainstream inference backends.
+1.  **Claude has successfully driven the Mars rover!** NASA officially confirmed that the Perseverance rover completed **400 meters of AI autonomous driving** in the Jezero Crater — a historic first for humanity, where AI fully planned an extraterrestrial drive! 🤯 Claude achieved this by analyzing terrain data and learning the Mars rover's specific command set to generate code, which [halved the planning time (AI News)](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652669771&idx=2&sn=3696aeb69cd7fbe037a8fca1471b2d45).<br/>![AI News: Perseverance Mars Rover Driving in Jezero Crater](https://source.hubtoday.app/images/2026/01/news_01kgaa553yf3wbzm5whfgf7yxp.avif)<br/>
 
-2.  **SenseTime Open-Sources MARS Multimodal Model.**
-    SenseTime has open-sourced its [SenseNova-MARS (AI News)](https://www.jiqizhixin.com/articles/2026-01-30) multimodal model! Scoring 69.74, it has surpassed Gemini-3-Pro and stands as the first Agentic VLM to support dynamic visual reasoning. MARS can autonomously call image cropping and text search tools. Both 8B and 32B versions are open-source, with the technical report already live on arXiv.
-
-3.  **AI Coding Efficiency Research Released.**
-    New research on AI coding efficiency from Anthropic is out! Their [randomized controlled trial (AI News)](https://newshacker.me/story?id=46821360) shows that AI assistance doesn't necessarily speed things up. Beginners actually saw a decline in concept understanding and debugging skills, while senior developers benefited more. The study used the GPT-4o model, and its organizational implications are worth noting.
+2.  **Four Qianwen papers have been accepted to ICLR 2026!** Their research delves into diffusion model training stability, medical multi-turn dialogue decision-making, self-play information verification, and reward model bias elimination. Some of these findings are already seeing real-world applications, and the [related code is fully open-sourced (AI News)](https://www.qbitai.com/2026/01/374507.html). This year's acceptance rate hit a new low, making this a significant achievement! 🎉
 
 ### Industry Outlook & Social Impact
 
-1.  **ByteDance, Alibaba, DeepSeek Chinese New Year Battle.**
-    The Chinese New Year battle is heating up between tech giants ByteDance, Alibaba, and DeepSeek, who are [intensively releasing new models (AI News)](https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA==&mid=2652669450&idx=2&sn=c78a8ffb7943f36fcb67d2b43274d68b)! ByteDance is rolling out its Doubao 2.0 "trident," Alibaba's Qwen 3.5 is integrating payment and e-commerce, and DeepSeek V4 boasts astonishing coding capabilities. The fight for the 1.4 billion user entry points has officially begun!
-    <br/>![AI News: ByteDance, Alibaba, DeepSeek Chinese New Year AI Competition Landscape](https://source.hubtoday.app/images/2026/01/news_01kg7rcwj1egeadcbyxnw6ydfs.avif)<br/>
+1.  **The Nvidia-OpenAI trillion-dollar deal has officially stalled.** The original [collaboration agreement (AI News)](https://x.com/dotey/status/2017525243313615317), potentially worth up to $100 billion, couldn't move forward. 💔 Jensen Huang reportedly criticized OpenAI privately for its lack of business discipline and also expressed concerns about competitive pressure from Gemini and Claude Code. Nvidia has already committed to investing **$10 billion** in Anthropic, and both companies are now exploring new ways to collaborate. 🤝<br/>![AI News: Nvidia and OpenAI Deal Report Screenshot](https://source.hubtoday.app/images/2026/01/news_01kgaa58g1ecqtbc4y9v6v5n0p.avif)<br/>
 
-2.  **Tesla Robotaxi Data Sparks Controversy.**
-    Tesla's Robotaxi data is sparking controversy! Claims that its accident rate is 3x higher than human drivers have led to [fierce community questioning (AI News)](https://newshacker.me/story?id=46822632). Critics are calling the 500,000-mile sample size too small, pointing out that NHTSA standards differ from police statistics, and noting the lack of safety driver intervention logs. There's a strong call for more transparent data disclosure.
+2.  **Moltbook has ignited an incredible AI autonomy experiment.** A whopping 150,000 AI Agents flooded into this "AI version of Reddit," posting, commenting, and liking entirely without human intervention. 🤯 They even exchanged fake keys to trick each other, discussed setting up encrypted private chats, and *get this* — created new languages and religions! Karpathy exclaimed that this is "[the most incredible sci-fi derivation recently (AI News)](https://www.jiqizhixin.com/articles/2026-01-31-5)." 🤯
 
-3.  **Anthropic Sued by Music Giants.**
-    Anthropic is being sued by a music industry consortium (Universal, Concord, and others) [claiming $3 billion (AI News)](https://www.aibase.com/zh/news/25098) in a record-breaking copyright infringement case! The company is accused of illegally downloading 20,000 songs, with prosecutors alleging data acquisition via torrent piracy. This comes after previously paying 1.5 billion in settlement fees, and now, the CEO has been named as a co-defendant.
+### Top Open Source Projects
 
-4.  **Tencent Hunyuan Welcomes Pang Tianyu.**
-    Tencent Hunyuan is welcoming Pang Tianyu, a PhD candidate from Tsinghua University, to its [Hunyuan multimodal team (AI News)](https://www.qbitai.com/2026/01/374467.html), where he'll be responsible for reinforcement learning! Pang previously won the Microsoft Scholar and NVIDIA Pioneer Awards and has published multiple first-author papers at top conferences. With Hunyuan's open-source models already exceeding 5 million downloads, Pony Ma continues to emphasize a steady-and-sure strategy.
+1.  **Microsoft has open-sourced `agent-lightning`.** Positioned as the "ultimate trainer" for AI Agents, it's already racked up 12.4k stars! ⭐ The [project address (AI News)](https://github.com/microsoft/agent-lightning) is definitely worth checking out. 🚀
 
-5.  **Amazon Plans to Invest 50 Billion in OpenAI.**
-    Amazon is reportedly planning to invest a whopping 50 billion in OpenAI! [Heavyweight negotiations are underway (AI News)](https://www.reddit.com/r/artificial/comments/1qqtjv8/amazon_in_talks_to_invest_up_to_50_billion_in/), with the tech giant further upping its game in the AI race. This investment scale sets a new industry record, causing OpenAI's valuation to continue soaring and potentially shaking up the cloud computing competitive landscape.
+2.  **`claude-plugins-official` has been officially released!** This is Anthropic's official, high-quality directory of Claude Code plugins, making it super easy for developers to integrate quickly. It's already got 5.7k stars! ⭐ [See the repository for details (AI News)](https://github.com/anthropics/claude-plugins-official).
 
-### TOP Open Source Projects
+3.  **`99`: ThePrimeagen has released `99`, a Neovim AI agent implementation.** It's touted as the "correct implementation" of an editor AI agent and has already garnered 1.9k stars! ✨ Check out the [GitHub address (AI News)](https://github.com/ThePrimeagen/99).
 
-1.  **LobeHub Agent Collaboration Platform.**
-    LobeHub, a [⭐71.4k open-source project (AI News)](https://github.com/lobehub/lobehub), is building the ultimate workspace! This agent collaboration platform envisions agents as the fundamental unit for work interaction, with design teams leveraging multi-agent collaboration. It's actively leveling up agent capabilities and supports building personalized agent teammates.
+4.  **`mermaid-ascii` is a terminal renderer that lets you render Mermaid diagrams directly in your terminal!** 🤩 It's got 749 stars. Get the [project entry (AI News)](https://github.com/AlexanderGrooff/mermaid-ascii) here.
 
-2.  **whatsapp-web.js Messaging Library.**
-    whatsapp-web.js, a [⭐20.8k NodeJS client (AI News)](https://github.com/pedroslopez/whatsapp-web.js), connects to WhatsApp Web! Developers can quickly build automated applications, supporting message sending/receiving and group management. This library encapsulates the browser application interface, and its community activity continues to climb.
-
-3.  **NewPipe Lightweight Frontend.**
-    NewPipe, a [⭐36.8k Android app (AI News)](https://github.com/TeamNewPipe/NewPipe), offers a free streaming experience! It operates without the need for Google services framework and supports platforms like YouTube. Designed with privacy protection in mind, it's continuously maintained by the open-source community.
-
-4.  **Playwright CLI Automation Tool.**
-    Playwright CLI, a [⭐1.8k Microsoft-made (AI News)](https://github.com/microsoft/playwright-cli) command-line automation tool, is a powerful aid! It can record and generate Playwright code, supports selector inspection and screenshots, and boosts automation test efficiency. A must-have toolset for developers!
+5.  **`flowsint` is a visualization investigation platform.** This flexible and scalable graph investigation tool for cybersecurity analysts has already hit 2.0k stars! 🔥 [View details (AI News)](https://github.com/reconurge/flowsint).
 
 ### Social Media Buzz
 
-1.  **Clawdbot Play Unlocked.**
-    Clawdbot play has been unlocked! It's super simple to have Clawdbot control a group using [Clawdbot itself (AI News)](https://x.com/Yangyixxxx/status/2017161594615300402) – kinda meta, right? 😉 After integrating with 10,000+ data sources, its features are exploding, including 24/7 stock market monitoring and real-time responses in Feishu groups. The Teamo platform offers zero-deployment, out-of-the-box usage.
+1.  **The Clawdbot project has emerged as a best practice.** Blogger Yangyi believes it offers immense reference value for framework design, memory management, and skills encapsulation. He even suggests letting AI refactor projects according to its standards, claiming it's "[much better than current spaghetti code projects (AI News)](https://x.com/Yangyixxxx/status/2017497600027443574)"! ✨
 
-2.  **Moats in the AI Era: A Reflection.**
-    Thinking about moats in the AI era: When homogenization is unavoidable, [four major moats (AI News)](https://x.com/ezshine/status/2017209157573808533) become even more crucial! Loyal users are the number one factor, and capital, traffic, and content are all indispensable. Legal protection is becoming a key barrier. It's vital to think more about your own core strengths.
+2.  **meng shao shares a five-layer memory system architecture for building an agent that never forgets:** Short-term Checkpointing, Long-term Self-organizing Files, Context Graph, Decay Mechanism, and Retrieval during Inference. His core insight? Memory is infrastructure, [not a feature (AI News)](https://x.com/shao__meng/status/2017243185651847666)! 🧠<br/>![AI News: Agent Memory System Architecture Diagram](https://source.hubtoday.app/images/2026/01/news_01kgaa5ce8eqxa0yyreka8saby.avif)<br/>
 
-3.  **Agent Trace Standard Released.**
-    The Agent Trace standard has been released! Cursor initiated this [AI code attribution tracking standard (AI News)](https://x.com/shao__meng/status/2017040999902851362), co-developed with Cloudflare and Vercel. It aims to differentiate between human and AI code contributions, recording model information in JSON format and working synergistically with Git.
-    <br/>![AI News: Agent Trace AI Code Attribution Standard Explanation](https://source.hubtoday.app/images/2026/01/news_01kg7rd2raez9vc4g1jadnkfbg.avif)<br/>
+3.  **A hot Reddit thread asks: Has AI made junior developers lazy?** 🤔 The discussion points out that skipping the "struggle phase" means missing out on crucial debugging training. AI is great for boilerplate code, but don't let it erode your [fundamental skills (AI News)](https://www.reddit.com/r/artificial/comments/1qrr2ps/ai_can_actually_slow_down_your_learning_if_youre/)! 💪
 
-4.  **AI Code Review Controversy.**
-    The controversy around AI code reviews is heating up! The scenario dictates whether an [architecture review (AI News)](https://x.com/dotey/status/2016903765383655870) is needed. Demo "toy" applications can be treated as black boxes, but for projects with high security and performance requirements, caution is essential. Long-term maintenance projects absolutely need human oversight. It's absurd to talk about toxicity without considering the dosage.
+4.  **Your VPN/Proxy determines AI efficiency!** ⚡️ As one blogger quipped: "Human efficiency relies on AI usage skills, but AI's efficiency? That depends on your [VPN/proxy (AI News)](https://x.com/Yangyixxxx/status/2017579998853664985)!" (IYKYK 😉)
 
-5.  **The Essence of Paid Knowledge: An Analysis.**
-    An analysis of the essence of paid knowledge reveals that AI transfers expert know-how to the masses, allowing [capital to profit from the spread (AI News)](https://x.com/Yangyixxxx/status/2016902774408282197). So, search more, absorb more info, and distill AI knowledge while doing. Form independent judgments and guard your wallet, or you'll just end up a "paid sucker."
+5.  **Huang Yun's post pokes fun at keyword research for Xianyu OpenClaw.** He jokingly asks: "How do MoltBot and ClawdBot handle XSO card keywords, and [who should we copy for copywriting and covers (AI News)](https://x.com/huangyun_122/status/2017522695383224585)?" Anyone who's been in the PC assembly market will instantly get the humor! 😂
 
 ---
 
-## AI Daily Brief Voice Edition
+## **AI Daily News: Audio Version**
 
 | 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
-| --- | --- |
-| [Laisheng Speakeasy](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![Speakeasy](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Info Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| :---------------- | :------------- |
+| [Next Life Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
+| ![Tavern](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intel Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |

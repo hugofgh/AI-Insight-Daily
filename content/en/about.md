@@ -6,23 +6,18 @@ sidebar:
 ---
 #### 何夕2077 / justlovemaki
 
-> Ten years coding, fingers grew cold,
-> Unspoken burdens, a story untold.
-> Then AI's thunder, a vibrant new quest,
-> I'll conquer the heavens, putting skills to the test! ⚡️
+> Ten years coding, and my fingers felt the chill, with so many unvented frustrations simmering still. But then, I heard the AI storm roar – and now I'm pumped to battle it out in the clouds, once more!
 
 #### My Code Philosophy
 
-> Tech for the people, always! 🚀
+> Technology for the people.
 
-#### My Signature Projects
+#### My Highlighted Work
 
-*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**:
-    *   **CloudFlare-AI-Image:** This AI image generation script is powered by Cloudflare Workers.
-*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**:
-    *   **CloudFlare-AI-Insight-Daily:** Driven by Cloudflare Workers, this content aggregation and generation platform curates the latest AI insights daily! It hooks you up with industry news, hot open-source projects, cutting-edge academic papers, and even tech influencer social media buzz.
-*   **GitHub:** For even more project goodies, peep my [GitHub](https://github.com/justlovemaki)! 😎
+*   **[Open Source Contribution/CloudFlare-AI-Image](https://github.com/justlovemaki/CloudFlare-AI-Image)**: This is an AI image generation script, powered by Cloudflare Worker. 🎨
+*   **[Open Source Contribution/CloudFlare-AI-Insight-Daily](https://github.com/justlovemaki/CloudFlare-AI-Insight-Daily)**: This platform, fueled by Cloudflare Workers, is all about aggregating and generating content. It curates daily AI insights for you, covering industry news, hot open-source projects, cutting-edge academic papers, and even tech influencer social media buzz! 🔥
+*   **My GitHub:** Wanna see more project details? Check out my [GitHub](https://github.com/justlovemaki) profile! 👇
 
-#### What I'm Exploring Right Now
+#### Current Explorations
 
-> **LLM applications and website SEO** are totally my jam these days! I'm deep-diving into learning and getting hands-on with them. 🧠✨
+**LLM applications & website SEO:** These areas are totally my jam right now! I'm super keen and actively diving deep into learning and practicing them. ✨
