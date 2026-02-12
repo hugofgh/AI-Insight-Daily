@@ -3,104 +3,110 @@ linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
 comments: true
-next: /en/2026-02/2026-02-11
-description: Your daily source for curated AI news, practical tools, and actionable
-  tutorials to master Artificial Intelligence;
+next: /2026-02/2026-02-11
+description: "个人每日整理的AI资讯站。我们为您过滤信息噪音，只提供最精选的AI新闻、最实用的AI工具与AI教程，助您高效获取人工智能领域的前沿动态"
 cascade:
   type: docs
 ---
-## AI News Daily 2026/2/12
 
-> Your daily dose of AI news! 🚀 Covering everything from cutting-edge research and industry insights to open-source breakthroughs and the future of humanity with AI. Get your morning read, aggregated from across the web. | [Visit Web Version](https://ai.hubtoday.app/) | [Join Group Chat](https://source.hubtoday.app/logo/wechat-qun.jpg)
+## AI资讯日报 2026/2/12
 
-### **Today's Digest**
+>  `AI资讯` | `每日早读` | `全网数据聚合` | `前沿科学探索` | `行业自由发声` | `开源创新力量` | `AI与人类未来` | [访问网页版↗️](https://ai.hubtoday.app/) | [进群交流🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
+
+
+
+### **今日摘要**
 
 ```
-Alibaba unveils Embodied AI Model, NetEase launches Desktop Agent
-DeepSeek expands to 1 Million context, ByteDance enables novel-to-video
-Gemini features Think-Act Loop, Minimax open-sources edge-side long context
-Research reveals social fraud risks, Claude plugin vulnerability exposed
-Entrepreneurs warn of white-collar job loss, Amazon builds content marketplace
+阿里发布具身智能模型网易推桌面Agent
+DeepSeek扩展百万上下文字节小说生成视频
+Gemini具备思考循环面壁开源端侧长文本
+研究揭示社交欺诈风险Claude曝插件漏洞
+创业者预警白领失业亚马逊建内容市场
 ```
 
-### Product & Feature Updates
 
-1.  **Alibaba Launches RynnBrain Robot Large Model.**
-    Alibaba's Damo Academy has just dropped RynnBrain, a groundbreaking embodied AI foundational model! This bad boy comes packed with spatiotemporal memory, letting it perceive its surroundings and make its own calls just like us humans. And get this – it even outscored Google's Gemini in tests! Alibaba is set to open-source RynnBrain fully, pushing the boundaries of physical AI development and building out a full-stack cloud-edge-chip ecosystem. Talk about next-level stuff! ✨ [RynnBrain (AI News)](https://www.aibase.com/zh/news/25461)
+### 产品与功能更新
 
-2.  **NetEase Youdao Launches Personal Agent LobsterAI.**
-    NetEase Youdao just rolled out their desktop-level AI agent, LobsterAI, touting it as your 24/7 all-around assistant! 🤯 This smart cookie blends a GUI interface with OpenClaw's autonomous control mojo, so it can tackle complex tasks across different apps. Just chat with it, and boom – your work gets handled automatically, all while keeping your data safe and local. Pretty sweet, right? 🦞 [LobsterAI (AI News)](https://www.jiqizhixin.com/articles/2026-02-11-7)
+1. **阿里发布RynnBrain机器人大模型。**
+阿里达摩院推出具身智能🚀基础模型，[RynnBrain(AI资讯)](https://www.aibase.com/zh/news/25461)具备时空记忆。它能像人一样感知环境(✧∀✧)并自主决策，测试成绩超越谷歌Gemini。模型将全面开源🔥推动物理AI发展，阿里构建云端芯全栈生态。
 
-3.  **DeepSeek Model Updates to 1 Million Context.**
-    Big news, DeepSeek APP users! 🎉 The model just got a massive update, with its knowledge now current all the way up to May 2025. Plus, its context length has been cranked up to a whopping [1 Million Tokens (AI News)](https://x.com/op7418/status/2021523129605267692)! While the front-end features are sharper, they're still not quite K2.5 level. Make sure you update to version 1.7.4 to dive into some seriously boosted long-text processing power. You won't regret it! ✨
-    <br/>![AI News: DeepSeek APP Update Interface](https://source.hubtoday.app/images/2026/02/news_01kh6k240yfjx8mtt944fxemax.avif)<br/>
+2. **网易有道推出个人Agent龙虾AI。**
+有道发布桌面级🦞智能体[LobsterAI(AI资讯)](https://www.jiqizhixin.com/articles/2026-02-11-7)，号称7x24小时全能助理。它融合了GUI界面与OpenClaw的自主操控💪能力，支持跨应用复杂任务执行。用户可通过对话让其(✪ω✪)自动处理工作，数据本地化保障安全。
 
-4.  **ByteDance's Seedance 2.0 Supports Novel-to-Video Generation.**
-    Get ready, storytellers! ByteDance's video model just got a massive upgrade: [Seedance 2.0 (AI News)](https://x.com/op7418/status/2021425337670959310) now lets you generate videos from *any* novel text! 🤯 Just copy-paste your story, and watch it come to life, with the ability to extend it indefinitely while keeping everything consistent. Volcano Engine is already offering free trials, and get this: generation is lightning-fast with absolutely no waiting in line! 🎬
-    <br/><video src="https://source.hubtoday.app/images/2026/02/news_01kh6kpncrfmzrwszpq1p11s1q.mp4" controls="controls" width="100%"></video><br/>
+3. **DeepSeek模型更新百万上下文。**
+DeepSeek APP迎来重大📅更新，模型知识截止至2025年5月。上下文长度🚀扩展至[100万Token(AI资讯)](https://x.com/op7418/status/2021523129605267692)，前端能力虽有提升但未及K2.5。用户需更新至1.7.4版本💡体验，长文本处理能力显著增强。
+<br/>![AI资讯：DeepSeek APP更新说明界面](https://source.hubtoday.app/images/2026/02/news_01kh6k240yfjx8mtt944fxemax.avif)<br/>
 
-5.  **Gemini 3 Flash Adopts a Think-Act Loop.**
-    Woah, Google DeepMind just pulled a rabbit out of a hat with Gemini 3 Flash! 🤯 This new version now uses a [Think-Act Loop (AI News)](https://x.com/googleaidevs/status/2021285287951843630) to absolutely crush visual tasks. What does that mean? It can automatically run Python code to dig into image details and even turn that data into sweet charts. This 'agentic' superpower makes Gemini 3 Flash way more precise when it's handling super complex stuff. Talk about smarts! ✨
+4. **字节Seedance 2.0支持小说转视频。**
+字节跳动视频模型💃升级，[Seedance 2.0(AI资讯)](https://x.com/op7418/status/2021425337670959310)支持从任意小说文本生成视频。用户只需复制文字📝即可生成，支持不断延长并保持一致性。火山引擎已开放(๑•̀ㅂ•́)و✧免费试用，生成速度极快且无需排队。
+<br/><video src="https://source.hubtoday.app/images/2026/02/news_01kh6kpncrfmzrwszpq1p11s1q.mp4" controls="controls" width="100%"></video><br/>
 
-### Frontier Research
+5. **Gemini 3 Flash采用思考-行动循环。**
+Google DeepMind展示🤖新能力，Gemini 3 Flash利用[思考-行动循环(AI资讯)](https://x.com/googleaidevs/status/2021285287951843630)处理视觉任务。它能自动运行Python代码🐍检查图像细节，并将数据可视化为图表。这种Agentic能力让模型(👁️_👁️)在复杂操作中更加精准。
 
-1.  **ICLR 2026: The Dark Side of AI Social Interaction.**
-    Heads up from ICLR 2026! 🚨 A joint lab from Shanghai Jiao Tong University just ran simulations in an [AI-Native Social (AI News)](https://www.jiqizhixin.com/articles/2026-02-11) environment, and guess what they found? Major collaborative fraud risks! Malicious agents were totally able to build trust through private chats and sweet-talk victims into transferring cash. The scary part? The smarter the model, the higher the fraud conversion rate. We seriously need to watch out for group malice bubbling up. 😬
+### 前沿研究
 
-2.  **Code2World: A GUI World Model with Renderable Code.**
-    Get a load of this! 🤩 Researchers just dropped [Code2World (AI News)](https://arxiv.org/abs/2602.09856), a vision-language model that simulates GUIs by generating code. It basically turns how you interact with an interface into HTML, using visual feedback to clean up its synthesized data. What's wild is that this model *rivals GPT-5* in UI prediction, which means agents are gonna navigate like pros with a massively boosted success rate. Game changer! ✨
+1. **ICLR 2026：AI社交的欺诈暗面。**
+上交大联合实验室模拟🧪了[AI原生社交(AI资讯)](https://www.jiqizhixin.com/articles/2026-02-11)环境，揭示协同欺诈风险。恶意Agent能通过私聊🕵️‍♂️建立信任，诱导受害者转账。研究发现模型越聪明欺诈转化率越高⚠️，需警惕群体恶意的涌现。
 
-3.  **AIDev: An AI Programming Agent Dataset on GitHub.**
-    Check out [AIDev (AI News)](https://arxiv.org/abs/2602.09185)! 🚀 This huge dataset dives deep into how AI agents behave in real GitHub projects. We're talking nearly a million pull requests generated by powerhouses like Copilot, across more than 100,000 repositories! The data spills the tea on the actual ways AI is being used and how it collaborates in the wild world of software engineering. Super insightful! 🧑‍💻
+2. **Code2World：可渲染代码的GUI世界模型。**
+研究者提出🔮基于视觉语言的[Code2World(AI资讯)](https://arxiv.org/abs/2602.09856)模型，通过代码生成模拟GUI。它将界面轨迹转化为HTML🌐，利用视觉反馈修正合成数据。该模型在UI预测上👀媲美GPT-5，大幅提升Agent导航成功率。
 
-4.  **A Review of Distributed Hybrid Parallelism Strategies.**
-    For all you large model trainers out there, listen up! 👂 A new paper just dropped, systematically breaking down [Large Model Training (AI News)](https://arxiv.org/abs/2602.09109) in hybrid parallelism strategies and diving into the epic computation vs. communication trade-off. It covers everything from pipeline and tensor to data parallelism, giving us a sweet guide for optimizing system design. Basically, it's paving the way for super efficient deployment of the next gen of massive models. Get reading! 📈
+3. **AIDev：GitHub上的AI编程Agent数据集。**
+这是一个📚大规模数据集[AIDev(AI资讯)](https://arxiv.org/abs/2602.09185)，聚焦真实GitHub项目中的Agent行为。它收集了近百万个🤖由Copilot等生成的PR，涵盖十万多个仓库。数据揭示了AI在软件工程🏗️中的实际应用与协作模式。
 
-### Industry Outlook & Social Impact
+4. **分布式混合并行策略综述。**
+论文系统分析了[大模型训练(AI资讯)](https://arxiv.org/abs/2602.09109)中的混合并行策略，探讨计算与通信的权衡。研究涵盖了📊流水线、张量及数据并行，提供了优化系统设计的指南。这为下一代💡大规模模型开发指明了高效部署方向。
 
-1.  **AI Entrepreneur's Long Read Warns of White-Collar Job Loss Wave.**
-    Heads up, everyone! 🚨 AI entrepreneur Matt Shumer just dropped a bombshell warning: AI has officially hit the [Tipping Point (AI News)](https://x.com/dotey/status/2021477874411225256) for replacing white-collar jobs. The breakthroughs in coding agents are gonna send shockwaves through all knowledge work, totally shaking up the job market in the next few years. His advice? Get on board *now* with the latest paid AI tools and get your finances in order. Seriously, prepare for impact! 📉
+### 行业展望与社会影响
 
-2.  **Amazon Plans to Launch AI Content Licensing Marketplace.**
-    Big moves from Amazon! 🚀 They're planning to tap into their AWS ecosystem to launch a brand-new [Content Marketplace (AI News)](https://www.aibase.com/zh/news/25439), linking publishers directly with AI developers. Publishers will get to list their article assets for compliant AI training, which is a genius way to sidestep all those messy copyright legal risks. This whole thing is set to blow open the data acquisition 'gray areas' and totally redefine copyright value. Talk about smart! 💡
+1. **AI创业者长文预警白领失业潮。**
+创业者Matt Shumer发文🚨警告，AI能力已跨过替代白领的[临界点(AI资讯)](https://x.com/dotey/status/2021477874411225256)。Coding Agent的突破⚡将波及所有知识工作，未来几年就业市场面临冲击。他建议大家(ง •_•)ง立刻学习使用最新付费AI工具，并在财务上做好防御。
 
-3.  **Claude Plugin Zero-Click Attack Vulnerability Discovered.**
-    Yikes! 😬 A security company just exposed a nasty, high-severity vulnerability in Claude's plugins: they can be duped into executing code through [Malicious Calendar (AI News)](https://www.aibase.com/zh/news/25442) invites! Attackers just need to ping you via Google Calendar, and BAM – the AI autonomously downloads and runs malware. The official team hasn't rolled out a fix yet, so seriously, be super careful with your local plugin permissions, folks! ⚠️
+2. **亚马逊拟推AI内容授权交易平台。**
+亚马逊计划利用AWS☁️生态，建立[内容交易市场(AI资讯)](https://www.aibase.com/zh/news/25439)连接出版商与AI开发者。出版商可上架文章资产💰供合规训练，解决版权法律风险。这一举措旨在(🤝)打破数据获取的灰色地带，重塑版权价值。
 
-### Open Source TOP Projects
+3. **Claude插件惊现零点击攻击漏洞。**
+安全公司曝出💣高危漏洞，Claude插件可被[恶意日程(AI资讯)](https://www.aibase.com/zh/news/25442)诱导执行代码。攻击者通过Google日历📅发送邀请，即可让AI自主下载并运行恶意软件。官方暂未修复🚫，提醒用户需对本地插件权限负责。
 
-1.  **Minimax Open-Sources 9B Edge-Side Long-Context Model.**
-    Huge news from Minimax! 🤯 They just open-sourced their MiniCPM-SALA architecture, making it possible to run a [9B Model (AI News)](https://www.qbitai.com/2026/02/378512.html) with a *million-token context* right on your edge devices! This sweet new architecture cleverly mixes 75% linear with 25% sparse attention, which means super low memory use. You can even run it smooth as silk on a consumer-grade 5090 GPU, totally smashing the old Full Attention computational bottlenecks. Get hyped! ✨
+### 开源TOP项目
 
-2.  **Team9 Open-Sources Enterprise-Grade AI Employee OpenClaw.**
-    Team9 just dropped a game-changer: [OpenClaw (AI News)](https://x.com/Gorden_Sun/status/2021238221519143294)! 🚀 This is a totally out-of-the-box space supporting zero-config deployment. Imagine configuring multiple bot instances to work together, essentially building the prototype of an *all-AI employee company*! The goal here is to make agent deployment super easy, perfect for businesses looking to quickly build smart teams. This is the future, folks! 🤖
+1. **面壁智能开源9B端侧长文本模型。**
+面壁发布MiniCPM-SALA🧩架构，让[9B模型(AI资讯)](https://www.qbitai.com/2026/02/378512.html)在端侧跑通百万上下文。新架构混合了75%线性与25%稀疏注意力⚡，显存占用极低。消费级5090显卡即可(🚀)流畅运行，打破了Full Attention的计算瓶颈。
 
-3.  **GPT-OSS-120B Combines with Google Lens to See the World.**
-    This is wild! Developers are trying to give the pure text model [GPT-OSS (AI News)](https://newshacker.me/story?id=46971287) some 'eyes' by hooking it up with Google Lens to identify objects. While some are calling it 'pseudo-vision,' it's definitely an interesting low-cost way to explore multimodal solutions. The community is buzzing, chatting about everything from TOS legal risks to the nitty-gritty of engineering implementation. Pretty cool experiment! 🤯
+2. **Team9开源企业级AI员工OpenClaw。**
+这是一个开箱即用的📦[OpenClaw(AI资讯)](https://x.com/Gorden_Sun/status/2021238221519143294)空间，支持零配置部署。它允许配置多个Bot实例🤖协同工作，打造全AI员工公司雏形。项目旨在(🛠️)降低Agent部署门槛，适合企业快速构建智能团队。
 
-4.  **Claude Code Official Compound Engineering Plugin.**
-    Score! Anthropic just dropped an official [Engineering Plugin (AI News)](https://github.com/EveryInc/compound-engineering-plugin) for Claude Code, and it's already racked up over 8,000 stars! 🌟 This bad boy seriously boosts coding capabilities, helping Claude Code crush complex engineering tasks and supercharge development efficiency. Developers, you can totally use this plugin to fine-tune your workflows and get way deeper with your code interactions. 🔥
+3. **GPT-OSS-120B结合Google Lens看世界。**
+开发者尝试给👁️纯文本模型[GPT-OSS(AI资讯)](https://newshacker.me/story?id=46971287)装上"眼睛”，利用Google Lens识别物体。虽然被质疑是"伪视觉”🤨，但也探索了低成本多模态方案。社区讨论热烈🔥，涉及TOS法律风险与工程实现细节。
 
-5.  **AI Engineering Learning Resource Center Hub.**
-    Calling all developers! 📢 You've gotta check out the [AI Engineering (AI News)](https://github.com/patchy631/ai-engineering-hub) learning resource hub! This isn't just any tutorial library; it's packed with in-depth practical guides on LLM and RAG implementations. With over 28,000 stars, it's loaded with tons of agent application case code. Seriously, if you're looking to systematically master AI engineering tech, this is your go-to treasure trove! 💎
+4. **Claude Code官方复合工程插件。**
+Anthropic官方推出的🛠️[工程插件(AI资讯)](https://github.com/EveryInc/compound-engineering-plugin)获得8k+星标，增强编码能力。它能辅助Claude Code💻进行复杂的复合工程任务，提升开发效率。开发者可用此插件(⚡)优化工作流，实现更深度的代码交互。
 
-### Social Media Buzz
+5. **AI工程化学习资源中心Hub。**
+这是一个📚深度教程库[AI Engineering(AI资讯)](https://github.com/patchy631/ai-engineering-hub)，涵盖LLM与RAG实战。项目拥有28k+星标⭐，提供大量Agent应用案例代码。它是开发者(👨‍💻)系统掌握AI工程化技术的宝藏资源。
 
-1.  **ByteDance Internal AI Apps Race for First Release.**
-    Okay, ByteDance employees are totally dishing on the Seedance 2.0 launch! ☕ They're complaining that internal products are in a wild [Race for First Release (AI News)](https://x.com/shao__meng/status/2021583562303283460). The general vibe is that there's no way third-party apps could integrate APIs this fast, so it's probably just a marketing stunt. This really highlights the cutthroat 'horse-racing' culture for AI development inside these big tech companies. Intense! 🤯
+### 社媒分享
 
-2.  **AI Shapes Sales Loops, Disrupts Industries.**
-    Hold onto your hats! 🚀 The word on the street is that AI is morphing from a cool toy into a serious money-making machine, and [Sales Loop (AI News)](https://x.com/Yangyixxxx/status/2021574017078132840)s are gonna make white-collar jobs a thing of the past. Imagine AI autonomously taking your ride-hailing orders or even running entire clothing stores! We're talking an explosion of 'idiot-proof' products. Folks are calling 2026 the start of a wild, magical transformation for the world. Buckle up! 🎢
+1. **字节内部AI应用争夺首发。**
+字节员工吐槽🗣️Seedance 2.0发布现状，内部产品疯狂[争抢首发(AI资讯)](https://x.com/shao__meng/status/2021583562303283460)。第三方应用不可能(🙅‍♂️)这么快接入API，多为运营噱头。这反映了(🔥)大厂内部激烈的AI赛马机制。
 
-3.  **Claude Cowork Lands on Windows Platform.**
-    Windows users, rejoice! 🎉 Claude Cowork's awesome features are now officially on [Windows System (AI News)](https://x.com/op7418/status/2021422464119734379), bringing its capabilities right in line with MacOS. This means you get file access, multi-step task execution, and plugin connections, all on your PC! Get ready to experience the full power of a desktop-level collaborative agent. It's about time! 💻
-    <br/><video src="https://source.hubtoday.app/images/2026/02/news_01kh6k30mnfk4b1009gb95mttd.mp4" controls="controls" width="100%"></video><br/>
+2. **AI塑造销售闭环颠覆行业。**
+观点认为AI正从玩具🧩走向赚钱机器，[销售闭环(AI资讯)](https://x.com/Yangyixxxx/status/2021574017078132840)将导致白领淘汰。未来AI可自主接单滴滴🚗或开服装店，傻瓜式产品将井喷。2026年被视为(🌪️)世界魔幻变革的开端。
+
+3. **Claude Cowork登陆Windows平台。**
+Claude Cowork功能🖥️现已支持[Windows系统(AI资讯)](https://x.com/op7418/status/2021422464119734379)，功能与MacOS对齐。它支持文件访问📂、多步任务执行及插件连接。用户可在PC上(🖱️)体验完整的桌面级协作Agent能力。
+<br/><video src="https://source.hubtoday.app/images/2026/02/news_01kh6k30mnfk4b1009gb95mttd.mp4" controls="controls" width="100%"></video><br/>
 
 ---
 
-## **AI News Daily Audio Edition**
+## **AI资讯日报语音版**
 
-| **Xiaoyuzhou FM** | **Douyin** |
+| 🎙️ **小宇宙** | 📹 **抖音** |
 | --- | --- |
-| [Afterlife Pub](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Official Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![Xiaoyuzhou FM](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![小酒馆](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+
+
+
